@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="157c45da-fc87-4bcf-b55a-649d24d70d25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/second.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/third-mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/third.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/夏日格纹.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/夏日格纹mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/应季起绒布服饰mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/搭配和应季起绒布服饰.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/浏览更多.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/浸染衬衫.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/绞花编结羊绒mobile衫.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/MEN/绞花编结羊绒衫.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/WOMEN/banner-mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/WOMEN/banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/WOMEN/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/WOMEN/优雅气质-mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/WOMEN/优雅气质.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/WOMEN/白色衬衫-mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/BLP/WOMEN/白色衬衫.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/deepBlue/banner-mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/deepBlue/banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/deepBlue/bottom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/ScrollMagic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/TweenMax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/animation.gsap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/debug.addIndicators.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/loop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/mb-banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/mb-second.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/pc-banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/pc-second.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/temp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/giveBack/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/hp/banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/hp/sectionTwo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/asp/mb/banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/asp/mb/second.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/asp/pc/SECOND.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/asp/pc/banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/mb/POLO衫.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/mb/T恤.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/mb/one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/mb/毛衫.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/mb/浏览更多.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/mb/短裤.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/mb/连衣裙.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/pc/five-毛衫.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/pc/fourth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/pc/one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/pc/threee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/pc/two.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/cwblp/pc/浏览更多.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/dlp/men-one-mb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/dlp/men-one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/dlp/men-two-mb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/dlp/men-two.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/hp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/mb-banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/mobile/mb-one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/mobile/mobile-swiper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/mobile/mobile-three.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/mobile/mobile-two.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/mobile/one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/pc-banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/pc-bottom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/pc-one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/pc-swiper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/pc-two.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/polom/test.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/wtw-women/mb/one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/wtw-women/mb/three.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/wtw-women/mb/two.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/wtw-women/pc/one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/wtw-women/pc/three.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/lp/wtw-women/pc/two.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/qixi/banner-mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/qixi/banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/qixi/定制爱的理想“型”-mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/qixi/定制爱的理想“型”.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/qixi/点缀爱的-mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/qixi/点缀爱的.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/qixi/穿上爱.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/rlMag/TEST.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/rlMag/atHome/banner-mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/rlMag/atHome/banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lauren/rlMag/atHome/家人与孩子.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observe.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/observe.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/observe.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="92" />
+    <option name="width" value="1400" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="157c45da-fc87-4bcf-b55a-649d24d70d25" name="Default Changelist" comment="" />
+      <created>1597806001400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597806001400</updated>
+      <workItem from="1597806002575" duration="5486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5486000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
